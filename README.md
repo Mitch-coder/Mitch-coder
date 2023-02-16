@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Michelle</h1>
-<h3 align="left">I am a software engineer with a passion for creating innovative and impactful technology.I can help drive innovation and improve efficiency, Whether I am working on a new product, automating a tedious process, or improving the performance of an existing system, I am always striving to find ways to add value and make a positive impact. Additionally, I am a quick learner and I am always eager to stay current with the latest advancements in the field.</h3>
+<h1 align="justify">Hi there👋, I'm Michelle</h1>
+<h3 align="justify">I am a software engineer with a passion for creating innovative and impactful technology.I can help drive innovation and improve efficiency, Whether I am working on a new product, automating a tedious process, or improving the performance of an existing system, I am always striving to find ways to add value and make a positive impact. Additionally, I am a quick learner and I am always eager to stay current with the latest advancements in the field.</h3>
 
 - 👨‍💻 All of my projects are available at [https://mitch-coder.github.io/](https://mitch-coder.github.io/)
 
